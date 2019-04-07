@@ -9,7 +9,7 @@ The aim of this repo is to fine tune this model for clustering of medical data. 
 
 On the other hand it is desirable to be able to classify the collected signals based on the wear on the surface. This has huge benefit because it could help in deetction of early wear on surfaces and subsequent treatment.
 
-To achieve the classification of the wear on the surfaces, the approach that would be used here would be to convert time series into graham matrix and feed this into neural net
+To achieve the classification of the wear on the surfaces, the approach that would be used here would be to convert time series into gramian matrix and feed this into neural net
 
 # dtc-tensorlow
 This repository for [「Deep Temporal Clustering: Fully Unsupervised Learning of Time-Domain Features」](https://arxiv.org/abs/1802.01059).  
